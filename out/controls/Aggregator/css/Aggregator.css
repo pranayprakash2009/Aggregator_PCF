@@ -1,0 +1,29 @@
+.input-aggregator {
+    white-space: normal;
+    word-break: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-family: 'SegoeUI', 'Segoe UI';
+    text-overflow: ellipsis;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    padding-top: 0px;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    font-weight: 600;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    padding-bottom: 0px;
+    border-color: transparent;
+    outline: none !important;
+}
+
+.input-aggregator:hover {
+    outline: none !important;
+}

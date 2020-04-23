@@ -1,0 +1,2 @@
+C:\Users\PrakashP\Desktop\PowerApps\CroweDemos\Aggregator\obj\Debug\Aggregator.pcfprojAssemblyReference.cache
+C:\Users\PrakashP\Desktop\PowerApps\CroweDemos\Aggregator\obj\Debug\Aggregator.pcfproj.CoreCompileInputs.cache
